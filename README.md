@@ -17,11 +17,11 @@ Copy your checkpoint to:
 
 ### 2) Run the backend
 
-See `stuttering-app/backend/README.md` for step-by-step Windows setup.
+See `stuttering-app/backend/models/README.md` for step-by-step Windows setup.
 
 ### 3) Run the frontend
 
-See `stuttering-app/frontend/README.md`.
+See `stuttering-app/frontend/src/README.md`.
 
 ## Sample curl command
 
